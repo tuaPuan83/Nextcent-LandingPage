@@ -1,12 +1,35 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Nextcent Landing Page  
 
-Currently, two official plugins are available:
+This project is a responsive landing page built from a Figma design, implementing modern web development practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview  
+Nextcent is a technology company focused on financial education and wealth management. This landing page highlights its services, features, and brand identity.
 
-## Expanding the ESLint configuration
+## 🔧 Technologies Used  
+- **REACT JS** – Structure 
+- **Tailwind CSS** – Utility-first styling  
+- **REACT Scroll** – Smooth animations  
+- **Figma Template** – https://www.figma.com/design/9Lva58RIeo35xN4ftE8aHa/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=0-1&p=f&t=5OiOz4i5WW7b4vF7-0
+## 🌟 Features  
+✅ Fully responsive (mobile-first approach)  
+✅ Clean, modern UI with intuitive navigation  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Folder Structure  
+
+/nextcent-landing-page 
+│── /assets          # Images & icons
+│── /src/components  # Structure
+│── /css             # Stylesheets
+│── main.jsx       # Main landing page file
+
+## 🔗 Live Preview  
+https://tuapuan83.github.io/Nextcent-LandingPage/
+
+🚀 Future Enhancements
+- Add smooth-scroll effects
+
+📬 Contact & ContributionsFeel free to contribute or report issues!
+- https://github.com/tuaPuan83
+
